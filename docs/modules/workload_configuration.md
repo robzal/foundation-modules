@@ -21,7 +21,7 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_ecs"></a> [ecs](#module\_ecs) | git@github.com:robzal/foundation_modules.git//src/modules/ecs_cluster | latest |
+| <a name="module_ecs"></a> [ecs](#module\_ecs) | git@github.com:robzal/foundation_modules.git//src/modules/ecs_cluster | v1.1.0 |
 ## Resources
 
 No resources.

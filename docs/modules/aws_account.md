@@ -44,8 +44,8 @@
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_github_access"></a> [github\_access](#module\_github\_access) | git@github.com:robzal/foundation_modules.git//src/modules/github_oidc_aws_access | latest |
-| <a name="module_itoc_access"></a> [itoc\_access](#module\_itoc\_access) | git@github.com:robzal/foundation_modules.git//src/modules/itoc_access | latest |
+| <a name="module_github_access"></a> [github\_access](#module\_github\_access) | git@github.com:robzal/foundation_modules.git//src/modules/github_oidc_aws_access | v1.1.0 |
+| <a name="module_itoc_access"></a> [itoc\_access](#module\_itoc\_access) | git@github.com:robzal/foundation_modules.git//src/modules/itoc_access | v1.1.0 |
 ## Resources
 
 | Name | Type |

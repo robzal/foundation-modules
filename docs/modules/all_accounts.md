@@ -27,8 +27,8 @@ No outputs.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_cis_cw"></a> [cis\_cw](#module\_cis\_cw) | git@github.com:robzal/foundation_modules.git//src/modules/cloudwatch_cis_alarms | latest |
-| <a name="module_multi_region_ebs_encryption"></a> [multi\_region\_ebs\_encryption](#module\_multi\_region\_ebs\_encryption) | git@github.com:robzal/foundation_modules.git//src/modules/global_ebs_encryption | latest |
+| <a name="module_cis_cw"></a> [cis\_cw](#module\_cis\_cw) | git@github.com:robzal/foundation_modules.git//src/modules/cloudwatch_cis_alarms | v1.1.0 |
+| <a name="module_multi_region_ebs_encryption"></a> [multi\_region\_ebs\_encryption](#module\_multi\_region\_ebs\_encryption) | git@github.com:robzal/foundation_modules.git//src/modules/global_ebs_encryption | v1.1.0 |
 ## Resources
 
 | Name | Type |
