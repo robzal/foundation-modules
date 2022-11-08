@@ -1,5 +1,5 @@
 module "aws_account" {
-  source        = "git@github.com:robzal/foundation_modules.git//src/modules/"
+  source        = "git@github.com:robzal/foundation-modules.git//src/modules/"
   account_name  = "test"
   account_email = "test@example.com"
   parent_id     = aws_organizations_organization.org.id

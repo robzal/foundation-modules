@@ -23,23 +23,23 @@ No providers.
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_remote_state_ap_northeast_1"></a> [remote\_state\_ap\_northeast\_1](#module\_remote\_state\_ap\_northeast\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_ap_northeast_2"></a> [remote\_state\_ap\_northeast\_2](#module\_remote\_state\_ap\_northeast\_2) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_ap_northeast_3"></a> [remote\_state\_ap\_northeast\_3](#module\_remote\_state\_ap\_northeast\_3) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_ap_south_1"></a> [remote\_state\_ap\_south\_1](#module\_remote\_state\_ap\_south\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_ap_southeast_1"></a> [remote\_state\_ap\_southeast\_1](#module\_remote\_state\_ap\_southeast\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_ap_southeast_2"></a> [remote\_state\_ap\_southeast\_2](#module\_remote\_state\_ap\_southeast\_2) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_ca_central_1"></a> [remote\_state\_ca\_central\_1](#module\_remote\_state\_ca\_central\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_eu_central_1"></a> [remote\_state\_eu\_central\_1](#module\_remote\_state\_eu\_central\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_eu_north_1"></a> [remote\_state\_eu\_north\_1](#module\_remote\_state\_eu\_north\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_eu_west_1"></a> [remote\_state\_eu\_west\_1](#module\_remote\_state\_eu\_west\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_eu_west_2"></a> [remote\_state\_eu\_west\_2](#module\_remote\_state\_eu\_west\_2) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_eu_west_3"></a> [remote\_state\_eu\_west\_3](#module\_remote\_state\_eu\_west\_3) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_sa_east_1"></a> [remote\_state\_sa\_east\_1](#module\_remote\_state\_sa\_east\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_us_east_1"></a> [remote\_state\_us\_east\_1](#module\_remote\_state\_us\_east\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_us_east_2"></a> [remote\_state\_us\_east\_2](#module\_remote\_state\_us\_east\_2) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_us_west_1"></a> [remote\_state\_us\_west\_1](#module\_remote\_state\_us\_west\_1) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
-| <a name="module_remote_state_us_west_2"></a> [remote\_state\_us\_west\_2](#module\_remote\_state\_us\_west\_2) | git@github.com:robzal/foundation_modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ap_northeast_1"></a> [remote\_state\_ap\_northeast\_1](#module\_remote\_state\_ap\_northeast\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ap_northeast_2"></a> [remote\_state\_ap\_northeast\_2](#module\_remote\_state\_ap\_northeast\_2) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ap_northeast_3"></a> [remote\_state\_ap\_northeast\_3](#module\_remote\_state\_ap\_northeast\_3) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ap_south_1"></a> [remote\_state\_ap\_south\_1](#module\_remote\_state\_ap\_south\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ap_southeast_1"></a> [remote\_state\_ap\_southeast\_1](#module\_remote\_state\_ap\_southeast\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ap_southeast_2"></a> [remote\_state\_ap\_southeast\_2](#module\_remote\_state\_ap\_southeast\_2) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_ca_central_1"></a> [remote\_state\_ca\_central\_1](#module\_remote\_state\_ca\_central\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_eu_central_1"></a> [remote\_state\_eu\_central\_1](#module\_remote\_state\_eu\_central\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_eu_north_1"></a> [remote\_state\_eu\_north\_1](#module\_remote\_state\_eu\_north\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_eu_west_1"></a> [remote\_state\_eu\_west\_1](#module\_remote\_state\_eu\_west\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_eu_west_2"></a> [remote\_state\_eu\_west\_2](#module\_remote\_state\_eu\_west\_2) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_eu_west_3"></a> [remote\_state\_eu\_west\_3](#module\_remote\_state\_eu\_west\_3) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_sa_east_1"></a> [remote\_state\_sa\_east\_1](#module\_remote\_state\_sa\_east\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_us_east_1"></a> [remote\_state\_us\_east\_1](#module\_remote\_state\_us\_east\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_us_east_2"></a> [remote\_state\_us\_east\_2](#module\_remote\_state\_us\_east\_2) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_us_west_1"></a> [remote\_state\_us\_west\_1](#module\_remote\_state\_us\_west\_1) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
+| <a name="module_remote_state_us_west_2"></a> [remote\_state\_us\_west\_2](#module\_remote\_state\_us\_west\_2) | git@github.com:robzal/foundation-modules.git//src/modules/remote_state | v1.1.0 |
 ## Resources
 
 No resources.
