@@ -1,0 +1,12 @@
+version: ">= 0.13.0, < 1.0.0"
+content: |-
+  {{ .Header }}
+  {{ include "README.md" }}
+  {{ .Requirements }}
+  {{ .Inputs }}
+  {{ .Outputs }}
+  {{ .Providers }}
+  {{ .Modules }}
+  {{ .Resources }}
+  {{ include "CHANGELOG.md" }}
+  {{ .Footer }}
